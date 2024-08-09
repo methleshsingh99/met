@@ -1,0 +1,3 @@
+[submodule "met"]
+	path = met
+	url = https://github.com/example/repo.git
